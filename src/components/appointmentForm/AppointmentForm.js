@@ -74,6 +74,9 @@ export const AppointmentForm = ({
       placeholder="Appointment with"
       
       />
+      <br />
+      <input type="submit" value="Add Appointment" />
+
     </form>
   );
 };
